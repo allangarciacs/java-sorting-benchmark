@@ -21,7 +21,7 @@ public class Exibicao {
 
     public static void pedirPreOrdenacao() {
         System.out.println("===================================");
-        System.out.print("Criar ordenada? (true / false): ");
+        System.out.print("Ordem aleatória? (true / false): ");
     }
 
     public static void exibirComplexidade(String algoritmo, int comparacoes, int trocas) {
