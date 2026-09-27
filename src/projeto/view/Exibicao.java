@@ -27,7 +27,7 @@ public class Exibicao {
     public static void exibirComplexidade(String algoritmo, int comparacoes, int trocas) {
         System.out.println("===================================");
         System.out.println("Complexidade " + algoritmo);
-        System.out.println("Comparacoes: " + comparacoes);
+        System.out.println("Comparações: " + comparacoes);
         System.out.println("Trocas     : " + trocas);
     }
 
